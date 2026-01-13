@@ -1,47 +1,51 @@
 # Hi there, I'm Muhammad Bilal! 👋
 
-### 🎓 Software Engineering Student @ COMSATS Wah
-I am a bachelor's student building a robust technical foundation in **Software Engineering**. My focus is on writing efficient, scalable code and solving complex problems through Object-Oriented Design and Data Structures.
+### 🚀 Software Engineer | Mobile Architect (Flutter) | Product-Minded Dev
+*Building intelligent, scalable mobile experiences with a focus on User Experience and System Architecture.*
 
-While I have a strong aptitude for Requirements Engineering and Analysis, I am currently exploring **Mobile Development** and **Backend Systems** to broaden my technical expertise.
+I am an **AI-Native Product Engineer** bridging the gap between complex backend logic and beautiful UI. Currently a High-Honors BSSE student (CGPA 3.65) at COMSATS Wah, I specialize in shipping cross-platform applications that don't just "work" but feel **premium**.
 
-- 🔭 **I’m currently building:** A cross-platform mobile app called **"Campus Event Companion"** using Flutter & Hive.
-- 💻 **Core Strength:** Java (OOP) & Data Structures.
-- 🧠 **Personality:** INFJ-A (Strategic, Analytical, and Detail-Oriented).
+- 🔭 **Current Focus:** Building **"Campus Pulse,"** a high-performance event management ecosystem with role-based access control.
+- ⚡ **Superpower:** I combine strong **OOP/Architecture principles** (Clean Architecture, SOLID) with an **AI-augmented workflow** to ship features 3x faster than traditional development.
+- 🧠 **Personality:** INFJ-A (I code with empathy for the user and logic for the system).
 
 ---
 
-### 🛠️ Tech Stack & Tools
-I focus on the intersection of clean code and efficient data management.
+### 🛠️ The "Vibe Coding" Stack
+I don't just write code; I architect solutions.
 
-| **Category** | **Technologies & Skills** |
+| **Domain** | **Technologies & Architecture** |
 | :--- | :--- |
-| **Languages** | **Java** (Strong OOP), Dart, C++, SQL |
-| **Mobile Dev** | **Flutter**, Hive (NoSQL), Provider/Bloc |
-| **Core Concepts** | Data Structures & Algorithms (DSA), SDLC, Object-Oriented Design |
-| **Databases** | MySQL, Hive (Local Storage) |
-| **Analysis** | Requirement Elicitation, UML Modeling, Technical Documentation |
+| **Mobile Engineering** | **Flutter (Expert UI/UX)**, Dart, Custom Painters, Glassmorphism |
+| **State & Logic** | **Provider & Riverpod**, BLoC Patterns, Clean Architecture |
+| **Backend & Data** | **Supabase**, Firebase, Hive (NoSQL Local First), MySQL |
+| **Core Engineering** | **Java (OOP Mastery)**, Data Structures & Algorithms, System Design |
+| **AI Workflow** | LLM-Assisted Refactoring, AI-Driven UI Generation, Semantic Search |
 
 ---
 
-### 📚 Key Academic Achievements (CGPA 3.65)
-I have secured Grade **'A'** in the most critical engineering modules:
-* **Data Structures (CSC211):** Mastered algorithms and memory efficiency.
-* **Object Oriented Programming (CSC241):** Proficient in modular software design.
-* **Database Systems (CSC270):** Advanced SQL and Schema Design.
-* **Information Security (CSC232):** Secure software principles.
-* **Software Requirement Engineering (CSE305):** Bridging business needs with technical specs.
+### 🏆 Featured Engineering
+#### 📱 **[Campus Pulse] - University Event Ecosystem**
+*A production-grade Flutter application managing campus life with granular permissions.*
+* **Architecture:** Feature-First, Role-Based Access Control (Admin vs. Student).
+* **Key Tech:** Flutter, Hive (Offline Persistence), Notification Channels (Android 13+), Custom Render Objects.
+* **Engineering Highlight:** Built a **custom 3D-style map engine** using `CustomPainter` to render interactive campus locations without external API costs.
+* **Logic:** Implemented a hybrid "Guest/Auth" state machine allowing immediate user exploration.
+
+#### 🏥 **[MedFlow / AR Medical] - Healthcare Dashboard**
+*A patient-centric medical record system with high-fidelity UI.*
+* **Focus:** Complex UI rendering (Glassmorphism), secure authentication flows, and real-time appointment tracking.
+* **Tech:** Flutter, Provider, Dynamic Theming.
 
 ---
 
-### 🚀 Featured Project
-**Campus Event Companion (Flutter)**
-* A mobile app to streamline university event discovery.
-* **Tech:** Flutter, Dart, Hive (NoSQL), Git.
-* *Check my repositories for the source code.*
+### 📚 Academic Excellence
+I believe strong theory enables better practice.
+* **CGPA:** 3.65 / 4.0 (High Honors)
+* **Core Modules:** Grade 'A' in **Data Structures (Optimization)**, **Information Security**, and **Software Requirements Engineering**.
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Build Something Meaningful
 * <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> **[linkedin.com/in/muhammad-bilal-bsse](https://www.linkedin.com/in/muhammad-bilal-bsse/)**
 * **Email:** mbilalkhanmbk1@gmail.com
