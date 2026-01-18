@@ -32,7 +32,7 @@ I don't just write code; I architect solutions.
 * **Engineering Highlight:** Built a **custom 3D-style map engine** using `CustomPainter` to render interactive campus locations without external API costs.
 * **Logic:** Implemented a hybrid "Guest/Auth" state machine allowing immediate user exploration.
 
-#### 🏥 **[MedFlow / AR Medical] - Healthcare Dashboard**
+#### 🏥 **[VitalSync] - Healthcare Dashboard**
 *A patient-centric medical record system with high-fidelity UI.*
 * **Focus:** Complex UI rendering (Glassmorphism), secure authentication flows, and real-time appointment tracking.
 * **Tech:** Flutter, Provider, Dynamic Theming.
@@ -41,7 +41,6 @@ I don't just write code; I architect solutions.
 
 ### 📚 Academic Excellence
 I believe strong theory enables better practice.
-* **CGPA:** 3.65 / 4.0 (High Honors)
 * **Core Modules:** Grade 'A' in **Data Structures (Optimization)**, **Information Security**, and **Software Requirements Engineering**.
 
 ---
