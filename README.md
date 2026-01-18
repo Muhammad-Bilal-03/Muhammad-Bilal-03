@@ -3,7 +3,7 @@
 ### 🚀 Software Engineer | Mobile Architect (Flutter) | Product-Minded Dev
 *Building intelligent, scalable mobile experiences with a focus on User Experience and System Architecture.*
 
-I am an **AI-Native Product Engineer** bridging the gap between complex backend logic and beautiful UI. Currently a High-Honors BSSE student (CGPA 3.65) at COMSATS Wah, I specialize in shipping cross-platform applications that don't just "work" but feel **premium**.
+I am an **AI-Native Product Engineer** bridging the gap between complex backend logic and beautiful UI. Currently a High-Honors BSSE student at COMSATS Wah, I specialize in shipping cross-platform applications that don't just "work" but feel **premium**.
 
 - 🔭 **Current Focus:** Building **"Campus Pulse,"** a high-performance event management ecosystem with role-based access control.
 - ⚡ **Superpower:** I combine strong **OOP/Architecture principles** (Clean Architecture, SOLID) with an **AI-augmented workflow** to ship features 3x faster than traditional development.
