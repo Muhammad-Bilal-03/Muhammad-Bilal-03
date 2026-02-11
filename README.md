@@ -1,50 +1,58 @@
-# Hi there, I'm Muhammad Bilal! 👋
+# Hey, I'm Muhammad Bilal 👋
 
-### 🚀 Software Engineer | Mobile Architect (Flutter) | Product-Minded Dev
-*Building intelligent, scalable mobile experiences with a focus on User Experience and System Architecture.*
+### Flutter Developer | BSSE Student at COMSATS Wah
 
-I am an **AI-Native Product Engineer** bridging the gap between complex backend logic and beautiful UI. Currently a High-Honors BSSE student at COMSATS Wah, I specialize in shipping cross-platform applications that don't just "work" but feel **premium**.
-
-- 🔭 **Current Focus:** Building **"Campus Pulse,"** a high-performance event management ecosystem with role-based access control.
-- ⚡ **Superpower:** I combine strong **OOP/Architecture principles** (Clean Architecture, SOLID) with an **AI-augmented workflow** to ship features 3x faster than traditional development.
-- 🧠 **Personality:** INFJ-A (I code with empathy for the user and logic for the system).
+I build cross-platform mobile apps with Flutter, focusing on clean architecture and polished UI/UX. I use AI tools like GitHub Copilot and Gemini to work smarter, but I understand the fundamentals behind every line of code.
 
 ---
 
-### 🛠️ The "Vibe Coding" Stack
-I don't just write code; I architect solutions.
+### 🔭 Currently Building
 
-| **Domain** | **Technologies & Architecture** |
+🧠 **[Second Brain](https://github.com/Muhammad-Bilal-03/second_brain)** — A RAG-powered note-taking app where you can chat with your notes using AI.
+Built with Flutter, Riverpod, Clean Architecture, and SharedPreferences. AI integration with Google Gemini coming soon.
+
+---
+
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Mobile Engineering** | **Flutter (Expert UI/UX)**, Dart, Custom Painters, Glassmorphism |
-| **State & Logic** | **Provider & Riverpod**, BLoC Patterns, Clean Architecture |
-| **Backend & Data** | **Supabase**, Firebase, Hive (NoSQL Local First), MySQL |
-| **Core Engineering** | **Java (OOP Mastery)**, Data Structures & Algorithms, System Design |
-| **AI Workflow** | LLM-Assisted Refactoring, AI-Driven UI Generation, Semantic Search |
+| **Mobile** | Flutter, Dart, Custom Painters, Material 3 |
+| **State Management** | Riverpod, Provider, BLoC |
+| **Architecture** | Clean Architecture, MVVM, SOLID Principles |
+| **Backend & Data** | Supabase, Firebase, Hive, MySQL, SharedPreferences |
+| **Languages** | Dart, Java |
+| **Tools** | Git, GitHub Actions (CI/CD), GitHub Copilot |
 
 ---
 
-### 🏆 Featured Engineering
-#### 📱 **[Campus Pulse] - University Event Ecosystem**
-*A production-grade Flutter application managing campus life with granular permissions.*
-* **Architecture:** Feature-First, Role-Based Access Control (Admin vs. Student).
-* **Key Tech:** Flutter, Hive (Offline Persistence), Notification Channels (Android 13+), Custom Render Objects.
-* **Engineering Highlight:** Built a **custom 3D-style map engine** using `CustomPainter` to render interactive campus locations without external API costs.
-* **Logic:** Implemented a hybrid "Guest/Auth" state machine allowing immediate user exploration.
+### 🚀 Projects
 
-#### 🏥 **[VitalSync] - Healthcare Dashboard**
-*A patient-centric medical record system with high-fidelity UI.*
-* **Focus:** Complex UI rendering (Glassmorphism), secure authentication flows, and real-time appointment tracking.
-* **Tech:** Flutter, Provider, Dynamic Theming.
+#### 🧠 [Second Brain](https://github.com/Muhammad-Bilal-03/second_brain)
+RAG-powered note-taking app — chat with your notes using AI.
+- Full Notes CRUD with search functionality
+- Clean Architecture + Riverpod state management
+- Material 3 UI with purple theme
+- CI/CD pipeline with GitHub Actions
+- *Next: Embeddings, Vector Search, Gemini RAG Chat*
+
+#### 🏫 Campus Pulse
+University event management ecosystem.
+- Custom 3D-style map engine built with `CustomPainter` (zero external API)
+- Role-based access control (Admin vs Student)
+- Offline-first with Hive local caching
+- Android 13+ notification channels
+
+#### 🏥 VitalSync
+Medical diagnostic dashboard.
+- Glassmorphic UI with dynamic theming
+- Dual-mode booking engine (Home vs Lab)
+- Server-side price validation
+- Secure authentication flows
 
 ---
 
-### 📚 Academic Excellence
-I believe strong theory enables better practice.
-* **Core Modules:** Grade 'A' in **Data Structures (Optimization)**, **Information Security**, and **Software Requirements Engineering**.
+### 📫 Let's Connect
 
----
-
-### 📫 Let's Build Something Meaningful
-* <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> **[linkedin.com/in/muhammad-bilal-bsse](https://www.linkedin.com/in/muhammad-bilal-bsse/)**
-* **Email:** mbilalkhanmbk1@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-bsse/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbilalkhanmbk1@gmail.com)
